@@ -1,4 +1,4 @@
-# Desafio - Desenvolvedor iOS SENIOR
+# Desafio - Desenvolvedor iOS 
 
 Nós do time de mobile do Grupo Zap VivaReal gostamos de jogar videogames. Gostaríamos de saber quais são os **Top Games no Twitch**. 🤓🎮
 
